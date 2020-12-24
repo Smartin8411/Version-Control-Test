@@ -1,5 +1,5 @@
 # Version Control For Pushing VSCode to Github
-This is going to be about how to push VSCode to Github
+This is going to be all the steps about how to push VSCode to Github
 
 ## Directions
 1. Download Git.
