@@ -16,5 +16,5 @@ This is going to be about how to push VSCode to Github
 12. If step 11 doesn't work for the version control then copy the github token given
 when there is an error if that doesn't work you will get a message that says freedesktop.
 secrets if that happens click Troubleshooting Guide and on Linux click the link and type in the VSCode
-terminal sudo apt gnome-keyring press Enter and if all that works refresh the github browser and you
+terminal "sudo apt install gnome-keyring" press Enter and if all that works refresh the github browser and you
 should be all set.
