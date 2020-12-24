@@ -2,10 +2,10 @@
 This is going to be all the steps about how to push VSCode to Github
 
 ## Directions
-1. Download Git.
+1. Download latest version of Git.
 2. Have a Github account & create new repository.
 3. Add repo name and description.
-4. Choose public or private & create repository.
+4. Choose public or private & create repository and then copy the github url.
 5. Download & Open Visual Studio Code.
 6. In menu, press CTRL+SHIFT+P/Command Pallette and type git clone.
 7. Paste the github repo url in the command pallette.
